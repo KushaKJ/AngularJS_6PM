@@ -1,1 +1,3 @@
 ng-init:
+
+    - used to declare the data statically.
